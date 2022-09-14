@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BiggerNumber</string>
+    <string name="_2">2</string>
+    <string name="press_the_button_which_contains_the_largest_number">Press the button which contains the largest Number</string>
+    <string name="number_game">Number Game</string>
+    <string name="owner_atulsharma">Owner:AtulSharma</string>
+</resources>
