@@ -24,7 +24,7 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src= 'https://github.com/atulsharma3011/Bigger-Number-Game/blob/main/BiggerNumberGif.gif' />
+<img src= 'https://github.com/atulsharma3011/Bigger-Number-Game/blob/main/BiggerNumberGif.gif'  width = '250' height = '500'/>
 
 
 
